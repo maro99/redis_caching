@@ -11,7 +11,7 @@ redis-server-----> sudo apt-get install
 loadtest --------> sudo npm install -g loadtest 
 ```
 
-1. post object 10000개 추가     
+1. post object 10000개추가     
   ./manage.py addpost 10000  
 
 2. 서버 실행시킨다.  
